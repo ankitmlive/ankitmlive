@@ -41,8 +41,6 @@ I have experience with web development. So far I have Python, Django, Javascript
     <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" /></a>  
   </p>
 
-I am passionate about social good and technology. I enjoy helping people.</p>
-
 <div align="center">
 <a href="https://www.linkedin.com/in/ankitmlive/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -53,5 +51,5 @@ I am passionate about social good and technology. I enjoy helping people.</p>
 </div> 
 
 <p align="center">&nbsp;</p>
-<h3 align="center">Show with ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories.</h3>
+<h3 align="center">Made with ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories.</h3>
 <p align="center">_______________________________________</p>
